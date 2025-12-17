@@ -2,7 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
-credentials
+credentials.txt
+artifact/
 # C extensions
 *.so
 
