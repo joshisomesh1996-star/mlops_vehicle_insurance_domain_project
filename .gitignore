@@ -5,6 +5,7 @@ __pycache__/
 credentials.txt
 artifact/
 project_flow.txt 
+proj1key.pem
 # C extensions
 *.so
 
