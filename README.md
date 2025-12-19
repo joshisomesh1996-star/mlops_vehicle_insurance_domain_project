@@ -1,4 +1,4 @@
-# 🚗 Vehicle Data MLOps Project
+# 🚗 Vehicle Insurance Response Prediction – MLOps Project
 
 An **end-to-end MLOps pipeline** demonstrating best practices in **data ingestion, validation, transformation, model training, evaluation, deployment, and CI/CD**, powered by **MongoDB Atlas, AWS (S3, EC2, ECR), Docker, and GitHub Actions**.
 
