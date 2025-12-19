@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 credentials.txt
 artifact/
+project_flow.txt 
 # C extensions
 *.so
 
